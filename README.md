@@ -2,7 +2,7 @@
 
 - **활동기간** : 2023.04.13 ~
 - **언어** : Python
-- **문제** : [백준](https://www.acmicpc.net/)
+- **문제출처** : [백준](https://www.acmicpc.net/)
 
 ### 목표
 
