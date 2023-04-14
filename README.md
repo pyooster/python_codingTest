@@ -13,4 +13,4 @@
 ### 문제 리스트
 | 날짜 | 문제 |
 | :---- | :------------------: | 
-| 4월 17일 |[주사위](https://www.acmicpc.net/problem/1041), [펠린드롬?](https://www.acmicpc.net/problem/10942) |
+| 4월 3주차 |[주사위](https://www.acmicpc.net/problem/1041), [펠린드롬?](https://www.acmicpc.net/problem/10942), [빗물](https://www.acmicpc.net/problem/14719), [퇴사2](https://www.acmicpc.net/problem/15486) |
