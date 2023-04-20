@@ -7,7 +7,7 @@ arr = list(map(int, input().split()))
 dp = [[0 for i in range(num)] for i in range(num)]
 
 
-#1개, 2개 고려하면 쉽게 풀수 있음
+# 1개, 2개 고려하면 쉽게 풀수 있음
 for i in range(num):
     for j in range(num - i):
         if arr[j] == arr[j + i]:
