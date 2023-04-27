@@ -23,8 +23,9 @@
       - 안 풀어본 문제를 우선함
       
 #### 스터디 진행
-- 자신이 가지고 온 문제 풀이
-  - 못 풀거나, 다른 풀이가 있을 경우 다른 사람이 풀이
+1. 자신이 가지고 온 문제 풀이
+      - 못 풀거나, 다른 풀이가 있을 경우 다른 사람이 풀이
+2. 다른 사람의 코드 리뷰(최소 한명)
 
 ### 👨‍👨‍👧‍👧 스터디 인원
 [@easyhoon](https://github.com/easyhooon), [@rappire](https://github.com/rappire), [@baekeunsun](https://github.com/baekeunsun), [@makie082](https://github.com/makie082), [@JUNYOUNG31](https://github.com/JUNYOUNG31)
