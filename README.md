@@ -37,3 +37,4 @@
 | :---- | :------------------: | 
 | 4월 3주차 |[주사위](https://www.acmicpc.net/problem/1041), [펠린드롬?](https://www.acmicpc.net/problem/10942) / [빗물](https://www.acmicpc.net/problem/14719), [퇴사2](https://www.acmicpc.net/problem/15486),[이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) |
 | 4월 4주차 |[퍼즐조각채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021), [플로이드](https://www.acmicpc.net/problem/11404), [문자열 폭발](https://www.acmicpc.net/problem/9935) / [토마토](https://www.acmicpc.net/problem/7576), [Dance Dance Revolution](https://www.acmicpc.net/problem/2342), [트리](https://www.acmicpc.net/problem/1068)|
+| 5월 1주차 |[영훈이의 색칠공부](https://www.acmicpc.net/problem/14578), [거짓말](https://www.acmicpc.net/problem/1043), [피리 부는 사나이](https://www.acmicpc.net/problem/16724), [호텔](https://www.acmicpc.net/problem/1106),  [보석 도둑](https://www.acmicpc.net/problem/1202),  [우체국](https://www.acmicpc.net/problem/2141)|
