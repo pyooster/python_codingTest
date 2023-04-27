@@ -1,7 +1,7 @@
 import sys
 
 input = sys.stdin.readline
-
+ 
 
 def check():
     pos = -1
