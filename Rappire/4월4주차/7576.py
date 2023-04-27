@@ -35,7 +35,7 @@ while len(queue) > 0:
             # elif arr[dx][dy] > num + 1:
             #     queue.append([dx, dy, num + 1])
             #     arr[dx][dy] = num + 1
-
+ 
 maxnum = -1
 for line in arr:
     for i in line:
