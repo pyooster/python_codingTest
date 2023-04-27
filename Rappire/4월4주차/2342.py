@@ -1,6 +1,6 @@
 import sys
 
-
+ 
 def cost(pos, last):
     if last == 0:
         return 2
