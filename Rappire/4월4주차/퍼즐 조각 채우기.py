@@ -55,7 +55,7 @@ def checkSpin(puzzle, empty):
         puzzle = spin(puzzle)
     return False
 
-
+ 
 def spin(puzzle):
     n = len(puzzle)
     m = len(puzzle[0])
