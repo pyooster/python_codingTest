@@ -28,6 +28,7 @@
 2. 다른 사람의 코드 리뷰(최소 한명)
 
 ### 👨‍👨‍👧‍👧 스터디 인원
+
 [@easyhoon](https://github.com/easyhooon), [@rappire](https://github.com/rappire), [@makie082](https://github.com/makie082), [@JUNYOUNG31](https://github.com/JUNYOUNG31), [@baekeunsun](https://github.com/baekeunsun)
 
 
