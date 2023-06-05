@@ -14,7 +14,7 @@
 
 ### 🤼‍♀️ 진행 방식
 #### 스터디 준비사항
-1. 각자 문제 2개씩 정해오기(스터디 전까지)
+1. 각자 문제 3개씩 정해오기(스터디 전까지)
       - 난이도 : 
            - 백준 :골드2 ~ 5, 실버1 ~ 2
            - 프로그래머스 : 레벨2,3
@@ -28,8 +28,10 @@
 2. 다른 사람의 코드 리뷰(최소 한명)
 
 ### 👨‍👨‍👧‍👧 스터디 인원
-[@easyhoon](https://github.com/easyhooon), [@rappire](https://github.com/rappire), [@baekeunsun](https://github.com/baekeunsun), [@makie082](https://github.com/makie082), [@JUNYOUNG31](https://github.com/JUNYOUNG31)
+[@easyhoon](https://github.com/easyhooon), [@rappire](https://github.com/rappire), [@makie082](https://github.com/makie082), [@JUNYOUNG31](https://github.com/JUNYOUNG31)
 
+### 명예 스터디원(취업완료)
+ [@baekeunsun](https://github.com/baekeunsun)
 ---
 
 ### 📑 문제 리스트
