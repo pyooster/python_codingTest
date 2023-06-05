@@ -31,7 +31,7 @@
 [@easyhoon](https://github.com/easyhooon), [@rappire](https://github.com/rappire), [@makie082](https://github.com/makie082), [@JUNYOUNG31](https://github.com/JUNYOUNG31)
 
 ### 명예 스터디원(취업완료)
- [@baekeunsun](https://github.com/baekeunsun)
+    [@baekeunsun](https://github.com/baekeunsun)
 ---
 
 ### 📑 문제 리스트
