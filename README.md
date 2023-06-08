@@ -29,7 +29,7 @@
 
 ### 👨‍👨‍👧‍👧 스터디 인원
 
-[@easyhoon](https://github.com/easyhooon), [@rappire](https://github.com/rappire), [@makie082](https://github.com/makie082), [@JUNYOUNG31](https://github.com/JUNYOUNG31), [@baekeunsun](https://github.com/baekeunsun)
+[@easyhoon](https://github.com/easyhooon), [@rappire](https://github.com/rappire), [@makie082](https://github.com/makie082), [@JUNYOUNG31](https://github.com/JUNYOUNG31), [@ksyint](https://github.com/ksyint), [@baekeunsun](https://github.com/baekeunsun)
 
 
 ---
