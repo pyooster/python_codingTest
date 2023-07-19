@@ -1,5 +1,5 @@
 # binary 라는 이진수의 L번지 부터 R번지 까지가 올바르게 포화 이진트리로 표현되느냐?
-def solve(binary: str, L: int, R: int) -> bool:
+def solve(binary, L, R):
     if L == R:
         return True
 
