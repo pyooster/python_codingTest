@@ -18,7 +18,7 @@ for i in range(n):
     line = list(map(int, si().split()))
     for j in range(m):
         # 에어컨 위치 미리 큐에 넣어 놓기
-        if line[j] == 9:
+        if line[j] == 9:상
             q.append((i, j))
             visited[i][j] = 1
     graph.append(line)
