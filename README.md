@@ -29,7 +29,7 @@
 
 ### 👨‍👨‍👧‍👧 스터디 인원
 
-[@easyhoon](https://github.com/easyhooon), [@rappire](https://github.com/rappire), [@makie082](https://github.com/makie082), [@JUNYOUNG31](https://github.com/JUNYOUNG31), [@ksyint](https://github.com/ksyint), [@mildsalmon](https://github.com/mildsalmon), [@baekeunsun](https://github.com/baekeunsun)
+[@easyhoon](https://github.com/easyhooon), [@rappire](https://github.com/rappire), [@makie082](https://github.com/makie082), [@JUNYOUNG31](https://github.com/JUNYOUNG31), [@ksyint](https://github.com/ksyint), [@mildsalmon](https://github.com/mildsalmon), [@jihyuk](https://github.com/hyukji), [@baekeunsun](https://github.com/baekeunsun)
 
 
 ---
@@ -53,3 +53,4 @@
 | 7월 2주차 |[사이클 게임](https://www.acmicpc.net/problem/20040),[다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486),[별자리 만들기](https://www.acmicpc.net/problem/4386)/[등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669),[자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059),[정육점](https://www.acmicpc.net/problem/2258)
 | 7월 3주차 |[내려가기](https://www.acmicpc.net/problem/2096),[알파벳](https://www.acmicpc.net/problem/1987),[전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)/[학부 연구생 민상](https://www.acmicpc.net/problem/21922),[통나무 건너뛰기](https://www.acmicpc.net/problem/11497),[표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)
 | 7월 4주차 |[연구소3](https://www.acmicpc.net/problem/17142),[이진 검색 트리](https://www.acmicpc.net/problem/5639),[최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)/[뒤집기3](https://www.acmicpc.net/problem/1464),[최소비용 구하기2](https://www.acmicpc.net/problem/11779),[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
+| 8월 1주차 |[가장 큰 정사각형](https://www.acmicpc.net/problem/1915),[소형기관차](https://www.acmicpc.net/problem/2616),[미세먼지 안녕!](https://www.acmicpc.net/problem/17144)/[캐슬 디펜스](https://www.acmicpc.net/problem/17135), [⚾](https://www.acmicpc.net/problem/17281), [숨바꼭질2](https://www.acmicpc.net/problem/12851)
