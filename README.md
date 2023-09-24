@@ -60,3 +60,4 @@
 | 9월 2주차 | [매직 스타](https://www.acmicpc.net/problem/3967),[마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057),[색상환](https://www.acmicpc.net/problem/2482)/[양 구출 작전](https://www.acmicpc.net/problem/16437), [카드 정렬하기](https://www.acmicpc.net/problem/1715), [색종이-3](https://www.acmicpc.net/problem/2571)
 | 9월 3주차 | [양 구출 작전](https://www.acmicpc.net/problem/16437), [카드 정렬하기](https://www.acmicpc.net/problem/1715), [색종이-3](https://www.acmicpc.net/problem/2571)/[마법사 상어와 복제](https://www.acmicpc.net/problem/23290)
 | 9월 4주차 | [줄세우기](https://www.acmicpc.net/problem/2631), [강의실 배정](https://www.acmicpc.net/problem/11000), [소수의 연속합](https://www.acmicpc.net/problem/1644)/[감시 피하기](https://www.acmicpc.net/problem/18428), [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533), [경쟁적 전염](https://www.acmicpc.net/problem/18405)
+| 9월 5주차 | [목장 건설하기](https://www.acmicpc.net/problem/14925), [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049), [신기한 키보드](https://www.acmicpc.net/problem/1796)/
