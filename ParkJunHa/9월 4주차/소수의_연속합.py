@@ -51,4 +51,6 @@ while 0 <= i <= j and 0 <= j < len(p):
         if i < 0:
             break
         cur += p[i]
+
+
 print(cnt)

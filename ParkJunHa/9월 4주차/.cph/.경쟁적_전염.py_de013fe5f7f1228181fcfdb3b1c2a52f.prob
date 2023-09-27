@@ -1,0 +1,1 @@
+{"name":"Local: 경쟁적_전염","url":"/Users/cycrpto/Desktop/BOJ/_study_ps/ParkJunHa/9월 4주차/경쟁적_전염.py","tests":[{"id":1695047341238,"input":"3 3\n1 0 2\n0 0 0\n3 0 0\n2 3 2","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/cycrpto/Desktop/BOJ/_study_ps/ParkJunHa/9월 4주차/경쟁적_전염.py","group":"local","local":true}
