@@ -29,10 +29,10 @@
 
 ### 👨‍👨‍👧‍👧 스터디 인원
 
-[@easyhoon](https://github.com/easyhooon), [@JUNYOUNG31](https://github.com/JUNYOUNG31), [@jihyuk](https://github.com/hyukji), [@Taegyu](https://github.com/TaegyuHan)
+[@easyhoon](https://github.com/easyhooon), [@JUNYOUNG31](https://github.com/JUNYOUNG31), [@jihyuk](https://github.com/hyukji),  [@Cycrypto](https://github.com/Cycrypto)
 
 ### 👨‍👨‍👧‍👧 past member
-[@baekeunsun](https://github.com/baekeunsun), [@makie082](https://github.com/makie082), [@mildsalmon](https://github.com/mildsalmon), [@ksyint](https://github.com/ksyint), [@rappire](https://github.com/rappire)
+[@baekeunsun](https://github.com/baekeunsun), [@makie082](https://github.com/makie082), [@mildsalmon](https://github.com/mildsalmon), [@ksyint](https://github.com/ksyint), [@rappire](https://github.com/rappire), [@Taegyu](https://github.com/TaegyuHan) 
 
 
 ### 📑 문제 리스트
