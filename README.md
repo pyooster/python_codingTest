@@ -63,3 +63,4 @@
 | 9월 5주차 | [목장 건설하기](https://www.acmicpc.net/problem/14925), [키 순서](https://www.acmicpc.net/problem/2458), [신기한 키보드](https://www.acmicpc.net/problem/1796)/-추석 연휴-
 | 10월 1주차 | -추석 연휴-/[숨바꼭질 4](https://www.acmicpc.net/problem/13913), [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049), [미로 만들기](https://www.acmicpc.net/problem/2665)
 | 10월 2주차 | [빗물](https://www.acmicpc.net/problem/14719), [회전 초밥](https://www.acmicpc.net/problem/15961), [가르침](https://www.acmicpc.net/problem/1062)/[금민수의 합](https://www.acmicpc.net/problem/1528), [동전 분배](https://www.acmicpc.net/problem/1943), [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
+| 10월 3주차 | /[백조의 호수](https://www.acmicpc.net/problem/3197), [문제집](https://www.acmicpc.net/problem/1766), [크게 만들기](https://www.acmicpc.net/problem/2812)
